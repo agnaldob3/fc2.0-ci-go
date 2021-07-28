@@ -11,6 +11,3 @@ jobs:
 
       - run: go test
       - run: go run math.go
-
-
-
